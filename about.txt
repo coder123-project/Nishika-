@@ -1,0 +1,148 @@
+<HTML>
+<HEAD>
+
+<TITLE>ABOUT US</TITLE>
+
+ <link rel="stylesheet"
+    type="text/css"
+    href="style.css"/>
+
+
+<style>A {text-decoration: none;} </style>
+
+
+</HEAD>
+<BODY>
+
+<a href="UniversityOfFlorida.html"><IMG SRC ="https://play-lh.googleusercontent.com/sjY0YeMySx9TQOFFJgbRa-hJlFICKIKy2sELJB1z4MCwKRxlXNkhvS5G72ZHvK4sqA" width=50 height=50/></a>
+
+<div class=aboutus>
+<FONT FACE="Bahnschrift" ALIGN=CENTER><h1>ABOUT THE UNIVERSITY OF FLORIDA</h1></FONT>
+</div>
+
+<div class="para1">
+<font face="century gothic" size=7><p>A World-Class Record by the Numbers</p></font>
+</div>
+<div class="para2">
+<font face="century gothic" size=4><p>Find current stats on enrollment, 
+retention and graduation rates, degrees awarded, diversity, finances and more.</p></font>
+</div>
+
+<div class="image1">
+<IMG SRC="https://media.beam.usnews.com/db/70/dd260f2a415981b11fe6a5dadc4a/210324-submitted.jpg" width=700px height=400px/>
+</div>
+<div class="image2">
+<IMG SRC="https://images.shiksha.com/mediadata/images/1533552010phpMCHRIF.jpeg" width=700px height=500px/>
+</div>
+
+<div class="para3">
+<font face="century gothic" size=7><p>Among America's Best Universities</p></font>
+</div>
+<div class="para4">
+<font face="century gothic" size=4><p>Find current stats on enrollment, 
+retention and graduation rates, degrees awarded, diversity, finances and more.</p></font>
+</div>
+
+<div class="ftext2">
+<br><br><br><br><br><br><br>
+<font face="century gothic" size=7 align=center><p>University of Florida Rankings</p></font>
+</div>
+
+<TABLE style="width:80%">
+  <tr>
+    	<th style="height:100px" align=left>Ranking Group</th>
+    	<th style="height:100px" align=left>Ranking Description</th>
+   	<th>2016</th>
+	<th>2017</th>
+	<th>2018</th>
+	<th>2019</th>
+	<th>2020</th>
+	<th>2021</th>
+  </tr>
+  <tr>
+    	<td>America's Top Most Legendary Universities</td>
+    	<td>America's Top Most Legendary Universities</td>
+    	<td>-</td>
+	<td>1</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+  </tr>
+  <tr>
+    	<td>Best Alumni Network</td>
+    	<td>Best Alumni Network</td>
+    	<td>17</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+  </tr>
+  <tr>
+    	<td>Best College Newspaper</td>
+    	<td>Best College Newspaper</td>
+    	<td>14</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+  </tr>
+  <tr>
+    	<td>Best Degree Programs</td>
+    	<td>Best Online Bachelor's in Public Relations</td>
+    	<td></td>
+	<td>1</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+  </tr>
+  <tr>
+    	<td>Best Online Colleges</td>
+    	<td>Masters Degree Program in Engineering Online</td>
+    	<td></td>
+	<td></td>
+	<td>4</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+  </tr>
+  <tr>
+    	<td>Biz Journals</td>
+    	<td>Best U.S Public Colleges</td>
+    	<td>10</td>
+	<td>12</td>
+	<td>11</td>
+	<td>10</td>
+	<td>8</td>
+    	<td>-</td>
+  </tr>
+  <tr>
+  	<td rowspan = "6" align=left>Bloomsburg Buisnessweek</th>
+  	<td>Best Buisness Schools (Hough), Full Time MBA</th>
+	<td>46</th>
+  	<td>48</th>
+	<td>55</th>
+  	<td>32</th>
+	<td></th>
+	<td>27</th>
+  </tr>
+  <tr>
+	<td>Best Buisness Schools (Hough), Full Time MBA Amon..</td>
+	<td>21</td>
+	<td>24</td>
+	<td>27</td>
+	<td>11</td>
+	<td></td>
+	<td>7</td>
+  </tr>
+</TABLE>
+
+<br>
+<br>
+<br>
+
+</BODY>
+</HTML>

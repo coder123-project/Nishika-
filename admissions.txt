@@ -1,0 +1,63 @@
+<HTML>
+<HEAD>
+
+<TITLE>ACADEMICS</TITLE>
+
+ <link rel="stylesheet"
+    type="text/css"
+    href="style.css"/>
+
+<style>A {text-decoration: none;} </style>
+
+</HEAD>
+
+<BODY>
+
+<a href="UniversityOfFlorida.html"><IMG SRC ="https://play-lh.googleusercontent.com/sjY0YeMySx9TQOFFJgbRa-hJlFICKIKy2sELJB1z4MCwKRxlXNkhvS5G72ZHvK4sqA" width=50 height=50/></a>
+
+<div class=aboutus>
+<FONT FACE="Bahnschrift" ALIGN=CENTER><h1>ADMISSIONS</h1></FONT>
+</div>
+
+<div class="para11">
+<font face="century gothic" size=7><p>Undergraduate Admissions</p></font>
+</div>
+<div class="para12">
+<font face="century gothic" size=4><p>Learn how to apply, explore academics and student life, 
+review costs and aid info, plan a visit or check the status of your application.</p></font>
+</div>
+
+<div class="image6">
+<IMG SRC="https://images.theconversation.com/files/433152/original/file-20211122-23-3or4zq.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C7856%2C5261&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip" width=700px height=400px/>
+</div>
+<div class="image7">
+<IMG SRC="https://commencement.ufl.edu/media/commencementufledu/Front-Page-Summer-Grad-Pic.jpg" width=700px height=500px/>
+</div>
+<div class="image8">
+<IMG SRC="https://admissions.ufl.edu/img/freshman-2021/visit.jpg" width=700px height=400px/>
+</div>
+
+<div class="para13">
+<font face="century gothic" size=7><p>Graduate Admissions</p></font>
+</div>
+<div class="para14">
+<font face="century gothic" size=4><p>Explore the Graduate School at Florida or find a step-by-step guide on how to apply.</p></font>
+</div>
+
+<div class="para15">
+<font face="century gothic" size=7><p>Financial Aid</p></font>
+</div>
+<div class="para16">
+<font face="century gothic" size=4><p>Find Florida tuition and other costs, review the financial aid process, 
+learn about scholarships and other types of aid and get help when you need it.</p></font>
+</div>
+
+<br><br><br><br><br><br><br><br><br>
+<font face="century gothic" size=7 align=center><p>Online & Distance Learning</p></font>
+<div class="ftext">
+<font face="century gothic" size=4.5 align=center><p>Earn a Florida degree or certificate from anywhere in the world. Learn about nationally
+ acclaimed undergraduate and graduate programs, including online admissions instructions.</p></font>
+</div>
+<br><br>
+</BODY>
+</HTML>

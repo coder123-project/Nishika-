@@ -1,0 +1,234 @@
+.hy1
+{
+    display : flex;
+    margin-left : 700px;
+    font-size : 23px;
+    margin-top : -580px;
+    font-family : "century gothic"
+}
+.hy2
+{
+    display : flex;
+    margin-left : 850px;
+    font-size : 23px;
+    margin-top : -27px;
+    font-family : "century gothic"
+}
+.hy3
+{
+    display : flex;
+    margin-left : 1060px;
+    font-size : 23px;
+    margin-top : -25px;
+    font-family : "century gothic"
+}
+
+a:hover
+{
+	text-decoration : underline;
+	transform : scale(1.2);
+}
+
+
+.fact
+{
+    display : flex;
+    color : rgb(255,255,255);
+    width : 800px;
+    margin-left : 100px;
+    font-size : 30px;
+    margin-top : 350px;
+}
+
+.aboutus
+{
+    letter-spacing: 10px;
+    margin-top : 30px;
+    font-size : 22px;
+}
+
+.para1
+{
+	width : 350px;
+	margin-left : 80px;
+	margin-top : 150px;
+}
+.para2
+{
+	width : 370px;
+	margin-left : 80px;
+	margin-top : -10px;
+}
+
+.para3
+{
+	width : 450px;
+	margin-left : 830px;
+	margin-top : -400px;
+}
+.para4
+{
+	width : 370px;
+	margin-left : 840px;
+	margin-top : -10px;
+}
+
+.para5
+{
+	width : 350px;
+	margin-left : 80px;
+	margin-top : 150px;
+}
+.para6
+{
+	width : 370px;
+	margin-left : 80px;
+	margin-top : -10px;
+}
+
+.para7
+{
+	width : 450px;
+	margin-left : 830px;
+	margin-top : -830px;
+}
+.para8
+{
+	width : 400px;
+	margin-left : 840px;
+	margin-top : 0px;
+}
+
+.para9
+{
+	width : 450px;
+	margin-left : 80px;
+	margin-top : 250px;
+}
+.para10
+{
+	width : 370px;
+	margin-left : 80px;
+	margin-top : -10px;
+}
+.para11
+{
+	width : 350px;
+	margin-left : 80px;
+	margin-top : 150px;
+}
+.para12
+{
+	width : 370px;
+	margin-left : 80px;
+	margin-top : -10px;
+}
+
+.para13
+{
+	width : 450px;
+	margin-left : 830px;
+	margin-top : -830px;
+}
+.para14
+{
+	width : 400px;
+	margin-left : 840px;
+	margin-top : 0px;
+}
+
+.para15
+{
+	width : 450px;
+	margin-left : 80px;
+	margin-top : 250px;
+}
+.para16
+{
+	width : 370px;
+	margin-left : 80px;
+	margin-top : -10px;
+}
+
+.image1
+{
+	margin-top : -350px;
+	margin-left : 600px;
+}
+
+.image2
+{
+	margin-left : -10px;
+}
+.image3
+{
+	margin-top : -350px;
+	margin-left : 600px;
+}
+
+.image4
+{
+	margin-left : -10px;
+}
+.image5
+{
+	margin-top : 0px;
+	margin-left : 600px;
+}
+.image6
+{
+	margin-top : -350px;
+	margin-left : 600px;
+}
+
+.image7
+{
+	margin-left : -10px;
+}
+.image8
+{
+	margin-top : 0px;
+	margin-left : 600px;
+}
+
+.ftext
+{
+	width : 900px;
+	margin-left : 200px;
+	margin-top : -30px;
+}
+
+.mar
+{
+	margin-top : 80px;
+	font-family : "century gothic";
+	font-size : 20px;
+}
+
+table
+{
+	margin-top : -20px;
+  	margin-left: auto;
+  	margin-right: auto;	
+	font-family : "century gothic";
+}
+
+tr:nth-child(even) 
+{
+  	background-color: rgba(150, 212, 212, 0.4);
+}
+
+th, td 
+{
+  	padding: 5px;
+	border-color : #96D4D4;
+}
+
+.lists
+{
+	margin-top : 50px;
+	margin-left : 100px;
+	font-size : 23px;
+	font-family : "century gothic";
+	width : 900px;
+}
